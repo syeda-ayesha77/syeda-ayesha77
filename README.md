@@ -12,6 +12,8 @@
     <li>PHP</li>
     <li>C and C++</li>
     <li>MySQL</li>
+   <li>WebFlow</li>
+   <li>WordPress</li>
     <li>Photoshop</li>
   </ul>
 
