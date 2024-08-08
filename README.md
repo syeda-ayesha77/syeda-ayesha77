@@ -1,20 +1,23 @@
  <b> <h1>Hi, 👋 My name is Ayesha Shah.......</h1></b>
   
-- 👀 I’m interested in Website development and Graphic Designing...
-- 🌱 I’m currently learning new and advanced skills...
-- 💞️ I’m looking to collaborate with Software Developers and Software Houses... 
-- 📫 Contact me through my email syedaayesha7771@gmail.com.....
+<p>I am a Website Developer, Front-End Developer, Custom Website Developer, and Graphic Designer. Currently, I am focused on learning new and advanced skills to enhance my expertise. I am looking to collaborate with software houses and professionals in the industry.
+
+For any inquiries or collaboration opportunities, please contact me at <b>syedaayesha7771@gmail.com</b>.
+
+</p>
   <h1><b>My Skills</b></h1>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
     <li>Javascript</li>
     <li>PHP</li>
-    <li>C and C++</li>
+    <li>C++</li>
     <li>MySQL</li>
+    <li>PHP</li>
+    <li>React Js</li>
    <li>WebFlow</li>
-   <li>WordPress</li>
-    <li>Photoshop</li>
+   <li>Wix</li>
+   <li>Photoshop</li>
   </ul>
 
 
